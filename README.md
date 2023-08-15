@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - 💻
 - 🥱
+  
+    ![MS](./resources/20180106_5a506d5b9419c.jpg)
+    <img src="./resources/KakaoTalk_20230816_013204228.png" width="600" height="400"/>
