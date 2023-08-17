@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻
-- 🥱    
-
-    <figure class="half">
+   <figure class="half">
       <a href="link"><img src="./resources/20180106_5a506d5b9419c.jpg" width="45%"></a>
       <a href="link"><img src="./resources/KakaoTalk_20230816_013204228.png" width="41.5%"></a>
     </figure>
